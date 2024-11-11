@@ -1,5 +1,5 @@
-# Ex.No:  8 ATM Applicationn
-### DATE: 01/10/2024                                                                            
+# Ex.No:  7 ATM Applicationn
+### DATE:01.10.2024                                                                            
 ### REGISTER NUMBER :212222040004
 ### AIM: 
 For ATM system study its system specifications and report various bugs
@@ -29,16 +29,22 @@ Software  must handle concurrent accesses to the same account correctly.
 ```
 The intended audience of this SRS consists of: 
 Software designers 
- □ Systems engineers 
- □ Software developers 
- □ Software testers 
- □ Software designers 
- □ Customers
+□
+ □
+ □
+ □
+ □
+ Systems engineers 
+/Software developers 
+Software testers 
+Customers 
 The actors of the system are: 
 User 
- 1. User 
- 2. ATM Machine
- 3. Bank
+1.
+ 2.
+ 3.
+ ATM Machine 
+Bank
 ```
 
 
@@ -202,4 +208,4 @@ account type, withdrawal operation &amount to be withdraw
 
 
 ### Result:
-Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully.
+Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully
